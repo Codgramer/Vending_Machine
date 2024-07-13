@@ -1,0 +1,8 @@
+ KitKat x1     Rs. 30
+ Nestle-Coffee x1     Rs. 60
+ Pringles x1     Rs. 90
+ Total Price = Rs. 180
+
+ DairyMilk x1     Rs. 20
+ Total Price = Rs. 20
+
